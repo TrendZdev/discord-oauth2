@@ -1,3 +1,3 @@
 # discord-oauth2
 
-##Discord Oauth2 for Launcher
+## Discord Oauth2 for Launcher
